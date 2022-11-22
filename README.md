@@ -11,7 +11,7 @@
 
 ### Challenges:
 
-* **As Netbeans gives the facility of drag and drop but if you are not too familiar with the Java-Swing ,you are unable to understand elements functionality.
-* **Database Connection - The most hectic part but if you know the Sql and database management you can do it (JDBC)
+* **As Netbeans gives the facility of drag and drop but if you are not too familiar with the Java-Swing ,you are unable to understand elements functionality.**
+* **Database Connection - The most hectic part but if you know the Sql and database management you can do it (JDBC)**
 
 
